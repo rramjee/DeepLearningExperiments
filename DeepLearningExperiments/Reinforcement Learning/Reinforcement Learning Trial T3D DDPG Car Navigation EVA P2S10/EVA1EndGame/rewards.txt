@@ -1,0 +1,43 @@
+Total Timesteps: 500 Episode Num: 1 Episode Timesteps: 500 Reward: -29.000000000000153 Sand Penalty: 133.49999999999935 Living Penalty: 104.5
+Total Timesteps: 777 Episode Num: 2 Episode Timesteps: 277 Reward: -25.30000000000006 Sand Penalty: 217.30000000000214 Living Penalty: 163.0
+Total Timesteps: 1277 Episode Num: 3 Episode Timesteps: 500 Reward: -43.79999999999998 Sand Penalty: 349.6000000000071 Living Penalty: 251.5
+Total Timesteps: 1777 Episode Num: 4 Episode Timesteps: 500 Reward: -108.19999999999897 Sand Penalty: 496.3000000000127 Living Penalty: 290.0
+Total Timesteps: 2187 Episode Num: 5 Episode Timesteps: 410 Reward: -50.19999999999932 Sand Penalty: 615.4999999999991 Living Penalty: 359.0
+Total Timesteps: 2202 Episode Num: 6 Episode Timesteps: 15 Reward: -3.5000000000000027 Sand Penalty: 628.4999999999986 Living Penalty: 368.5
+Total Timesteps: 2232 Episode Num: 7 Episode Timesteps: 30 Reward: -19.0 Sand Penalty: 647.4999999999973 Living Penalty: 368.5
+Total Timesteps: 2732 Episode Num: 8 Episode Timesteps: 500 Reward: -20.200000000000085 Sand Penalty: 779.1999999999773 Living Penalty: 480.0
+Goal2Total Timesteps: 3009 Episode Num: 9 Reward: 84.10000000000016
+Total Timesteps: 3010 Episode Num: 9 Episode Timesteps: 278 Reward: 108.80000000000017 Sand Penalty: 849.3999999999667 Living Penalty: 634.0
+Total Timesteps: 3337 Episode Num: 10 Episode Timesteps: 327 Reward: 16.099999999999902 Sand Penalty: 936.7999999999549 Living Penalty: 737.5
+Goal1Total Timesteps: 3710 Episode Num: 11 Reward: 385.8999999999988
+Total Timesteps: 3711 Episode Num: 11 Episode Timesteps: 374 Reward: 410.5999999999988 Sand Penalty: 1009.6999999999439 Living Penalty: 1196.0
+Total Timesteps: 4211 Episode Num: 12 Episode Timesteps: 500 Reward: -47.40000000000001 Sand Penalty: 1142.5999999999237 Living Penalty: 1281.5
+Total Timesteps: 4388 Episode Num: 13 Episode Timesteps: 177 Reward: -30.700000000000053 Sand Penalty: 1200.2999999999165 Living Penalty: 1308.5
+Total Timesteps: 4745 Episode Num: 14 Episode Timesteps: 357 Reward: -50.49999999999952 Sand Penalty: 1306.299999999902 Living Penalty: 1364.0
+Total Timesteps: 5245 Episode Num: 15 Episode Timesteps: 500 Reward: -16.79999999999981 Sand Penalty: 1434.0999999998826 Living Penalty: 1475.0
+Total Timesteps: 5495 Episode Num: 16 Episode Timesteps: 250 Reward: -40.0 Sand Penalty: 1511.5999999998724 Living Penalty: 1512.5
+Total Timesteps: 5995 Episode Num: 17 Episode Timesteps: 500 Reward: 243.1999999999967 Sand Penalty: 1630.3999999998543 Living Penalty: 1874.5
+Total Timesteps: 6143 Episode Num: 18 Episode Timesteps: 148 Reward: 5.399999999999931 Sand Penalty: 1678.4999999998486 Living Penalty: 1928.0
+Total Timesteps: 6643 Episode Num: 19 Episode Timesteps: 500 Reward: 103.79999999999997 Sand Penalty: 1789.1999999998318 Living Penalty: 2142.5
+Total Timesteps: 6711 Episode Num: 20 Episode Timesteps: 68 Reward: -30.400000000000027 Sand Penalty: 1819.5999999998287 Living Penalty: 2142.5
+Total Timesteps: 6887 Episode Num: 21 Episode Timesteps: 176 Reward: -44.80000000000004 Sand Penalty: 1879.3999999998211 Living Penalty: 2157.5
+Goal2Total Timesteps: 7061 Episode Num: 22 Reward: -6.599999999999985
+Total Timesteps: 7062 Episode Num: 22 Episode Timesteps: 175 Reward: 18.100000000000016 Sand Penalty: 1928.2999999998137 Living Penalty: 2199.5
+Total Timesteps: 7371 Episode Num: 23 Episode Timesteps: 309 Reward: -59.09999999999995 Sand Penalty: 2024.3999999998007 Living Penalty: 2236.5
+Total Timesteps: 7871 Episode Num: 24 Episode Timesteps: 500 Reward: -54.59999999999961 Sand Penalty: 2158.499999999864 Living Penalty: 2316.0
+Total Timesteps: 8371 Episode Num: 25 Episode Timesteps: 500 Reward: -20.800000000000054 Sand Penalty: 2298.299999999949 Living Penalty: 2435.0
+Total Timesteps: 8871 Episode Num: 26 Episode Timesteps: 500 Reward: -44.19999999999968 Sand Penalty: 2436.0000000000323 Living Penalty: 2528.5
+Total Timesteps: 9266 Episode Num: 27 Episode Timesteps: 395 Reward: -74.49999999999932 Sand Penalty: 2555.5000000000987 Living Penalty: 2573.5
+Total Timesteps: 9267 Episode Num: 28 Episode Timesteps: 1 Reward: -10.3 Sand Penalty: 2565.800000000099 Living Penalty: 2573.5
+Total Timesteps: 9323 Episode Num: 29 Episode Timesteps: 56 Reward: -8.799999999999999 Sand Penalty: 2589.6000000001072 Living Penalty: 2588.5
+Goal1Total Timesteps: 9723 Episode Num: 30 Reward: 465.1999999999992
+Total Timesteps: 9724 Episode Num: 30 Episode Timesteps: 401 Reward: 489.8999999999992 Sand Penalty: 2663.700000000152 Living Penalty: 3127.5
+Total Timesteps: 10224 Episode Num: 31 Episode Timesteps: 500 Reward: -38.199999999999854 Sand Penalty: 2798.400000000234 Living Penalty: 3224.0
+Total Timesteps: 10724 Episode Num: 32 Episode Timesteps: 500 Reward: 54.200000000000756 Sand Penalty: 2930.700000000314 Living Penalty: 3410.5
+Total Timesteps: 11224 Episode Num: 33 Episode Timesteps: 500 Reward: 495.1999999999979 Sand Penalty: 3010.5000000003624 Living Penalty: 3985.5
+Total Timesteps: 11724 Episode Num: 34 Episode Timesteps: 500 Reward: -149.99999999999997 Sand Penalty: 3160.5000000004534 Living Penalty: 3985.5
+Total Timesteps: 11725 Episode Num: 35 Episode Timesteps: 1 Reward: -10.3 Sand Penalty: 3170.8000000004536 Living Penalty: 3985.5
+Total Timesteps: 12225 Episode Num: 36 Episode Timesteps: 500 Reward: 295.3999999999983 Sand Penalty: 3262.9000000005094 Living Penalty: 4373.0
+Total Timesteps: 12725 Episode Num: 37 Episode Timesteps: 500 Reward: -149.99999999999997 Sand Penalty: 3412.9000000006004 Living Penalty: 4373.0
+Total Timesteps: 13225 Episode Num: 38 Episode Timesteps: 500 Reward: -149.99999999999997 Sand Penalty: 3562.9000000006913 Living Penalty: 4373.0
+Total Timesteps: 13725 Episode Num: 39 Episode Timesteps: 500 Reward: 150.00000000000028 Sand Penalty: 3667.900000000755 Living Penalty: 4628.0
