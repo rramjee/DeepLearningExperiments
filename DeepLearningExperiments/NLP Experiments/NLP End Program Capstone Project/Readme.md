@@ -22,8 +22,7 @@
 
 3.  Custom Python embedding is loaded to the training for target field as below.
 
-   ![]
-(https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Custom%20Embedding%20File_new.jpg)
+   ![](https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Custom%20Embedding%20File_new.jpg)
 
 ## Data Cleaning
 
@@ -54,11 +53,11 @@
 
   - Below are Examples of few queries and the outputs. Some of the output are very inaccurate. I think need to cover more examples and go for a larger training corpus to improve accuracy in addition to using a better loss function.
 
-    ![Example1](C:\Users\Ramjee\Desktop\Output\Example1.jpg)
+    ![https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example1.jpg]
 
-    ![Example2](C:\Users\Ramjee\Desktop\Output\Example2.jpg)
+    ![https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example2.jpg]
 
-    ![Example3](C:\Users\Ramjee\Desktop\Output\Example3.jpg)
+    ![https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example3.jpg]
 
     ![Example4](C:\Users\Ramjee\Desktop\Output\Example4.jpg)
 
