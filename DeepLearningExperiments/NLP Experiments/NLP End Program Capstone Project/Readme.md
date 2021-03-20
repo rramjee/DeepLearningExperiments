@@ -53,29 +53,29 @@
 
   - Below are Examples of few queries and the outputs. Some of the output are very inaccurate. I think need to cover more examples and go for a larger training corpus to improve accuracy in addition to using a better loss function.
 
-    ![Example1](C:\Users\Ramjee\Desktop\Output\Example1.jpg)
+    https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example1.jpg
 
     ![Example2](C:\Users\Ramjee\Desktop\Output\Example2.jpg)
 
-    ![Example3](C:\Users\Ramjee\Desktop\Output\Example3.jpg)
+    https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example3.jpg
 
     ![Example4](C:\Users\Ramjee\Desktop\Output\Example4.jpg)
 
-    ![Example5_Failure](C:\Users\Ramjee\Desktop\Output\Example5_Failure.jpg)
+    https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example5_Failure.jpg
 
     ![Example6_Failure](C:\Users\Ramjee\Desktop\Output\Example6_Failure.jpg)
 
-    ![Example8](C:\Users\Ramjee\Desktop\Output\Example8.jpg)
+    https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example8.jpg
 
     ![Example9](C:\Users\Ramjee\Desktop\Output\Example9.jpg)
 
-    ![Example10](C:\Users\Ramjee\Desktop\Output\Example10.jpg)
+    https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Example10.jpg
 
 ### Conversion and output Attention for one of the examples.
 
-![prt example](C:\Users\Ramjee\Desktop\Output\prt example.jpg)
+https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/prt%20example.jpg
 
-![](C:\Users\Ramjee\Desktop\Output\download.png)
+https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/download.png
 
 ## Conclusion
 
