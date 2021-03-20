@@ -22,7 +22,8 @@
 
 3.  Custom Python embedding is loaded to the training for target field as below.
 
-   ![https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Custom%20Embedding%20File_new.jpg]
+   ![]
+(https://github.com/rramjee/DeepLearningExperiments/blob/master/DeepLearningExperiments/NLP%20Experiments/NLP%20End%20Program%20Capstone%20Project/Custom%20Embedding%20File_new.jpg)
 
 ## Data Cleaning
 
